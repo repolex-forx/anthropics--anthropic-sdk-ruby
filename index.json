@@ -3,6 +3,11 @@
   "repo": "anthropic-sdk-ruby",
   "versions": [
     {
+      "commit": "70c8ce1b0dd48d3e016a850deae91a7984c2bdff",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "d8729d4d9d24aafdfcd75a99bbab53b66b9dd1ff",
       "tag": "",
       "parsed_at": ""
