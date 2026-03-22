@@ -181574,6 +181574,91 @@
         "blob/0bc4c6bb031592878c71ce97f76ee85393763f5f.nq.gz",
         "blob/65689a7c2a1be7ab4535a93b896565a1bdb96a92.nq.gz",
         "blob/f2967486758c02be7c36c79df7a81d05606df51f.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e450c69b9651e878f7ec868fd3c75d778a411602.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e450c69b9651e878f7ec868fd3c75d778a411602.nq.gz",
+      "repolex": "aggregate/repolex/e450c69b9651e878f7ec868fd3c75d778a411602.nq.gz",
+      "dep": "dep/e450c69b9651e878f7ec868fd3c75d778a411602.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rake",
+          "packageVersion": "13.3.1",
+          "githubOrg": "ruby",
+          "githubRepo": "rake",
+          "githubCommit": "f0001c3eeada8220f2976170876c75d21ed0626f"
+        },
+        {
+          "packageName": "rbs",
+          "packageVersion": "4.0.1.dev.2",
+          "githubOrg": "ruby",
+          "githubRepo": "rbs",
+          "githubCommit": "32a59f63bc3293a88fecf821d31cb9269ed0875d"
+        },
+        {
+          "packageName": "rubocop",
+          "packageVersion": "1.9.1",
+          "githubOrg": "rubocop-hq",
+          "githubRepo": "rubocop",
+          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259"
+        },
+        {
+          "packageName": "sorbet",
+          "packageVersion": "0.6.13055",
+          "githubOrg": "sorbet",
+          "githubRepo": "sorbet",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "steep",
+          "packageVersion": "1.9.4",
+          "githubOrg": "soutaro",
+          "githubRepo": "steep",
+          "githubCommit": "9d1f712db440aa6a40aee5bbf0ba411dede7fd1f"
+        },
+        {
+          "packageName": "minitest",
+          "packageVersion": "6.0.2",
+          "githubOrg": "minitest",
+          "githubRepo": "minitest",
+          "githubCommit": "339492cbaec5c460ec278e754199619d6431af35"
+        },
+        {
+          "packageName": "minitest-hooks",
+          "packageVersion": "1.5.3",
+          "githubOrg": "jeremyevans",
+          "githubRepo": "minitest-hooks",
+          "githubCommit": "e690c2ed2a6ad4ffa48e2232bb9c086851283899"
+        },
+        {
+          "packageName": "webmock",
+          "packageVersion": "3.9.5",
+          "githubOrg": "bblimke",
+          "githubRepo": "webmock",
+          "githubCommit": "d5d8e6578e4b17b4fef123c7a49bb5a38b4faeb2"
+        },
+        {
+          "packageName": "yard",
+          "packageVersion": "0.9.9",
+          "githubOrg": "lsegal",
+          "githubRepo": "yard",
+          "githubCommit": "7c5682b2bd991e9037e0680f72a24097a2da9ac5"
+        },
+        {
+          "packageName": "aws-sdk-bedrockruntime",
+          "packageVersion": "1.9.0",
+          "githubOrg": "aws",
+          "githubRepo": "aws-sdk-ruby",
+          "githubCommit": "a7f457249d295517cdd15f7efa8dfed49ed84587"
+        },
+        {
+          "packageName": "googleauth",
+          "packageVersion": "1.9.2",
+          "githubOrg": "googleapis",
+          "githubRepo": "google-auth-library-ruby",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],
