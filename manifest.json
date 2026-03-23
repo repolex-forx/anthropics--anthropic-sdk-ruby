@@ -177564,7 +177564,7 @@
         },
         {
           "packageName": "sorbet",
-          "packageVersion": "0.6.13051",
+          "packageVersion": "0.6.13055",
           "githubOrg": "sorbet",
           "githubRepo": "sorbet",
           "githubCommit": "HEAD"
