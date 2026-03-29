@@ -55561,7 +55561,136 @@
         "aggregate/ast/b1b105ac797b6e8074bfdb435e332c9769c2f58d.nq.gz"
       ],
       "lsp": "aggregate/lsp/b1b105ac797b6e8074bfdb435e332c9769c2f58d.nq.gz",
-      "repolex": "aggregate/repolex/b1b105ac797b6e8074bfdb435e332c9769c2f58d.nq.gz"
+      "repolex": "aggregate/repolex/b1b105ac797b6e8074bfdb435e332c9769c2f58d.nq.gz",
+      "dep": "dep/b1b105ac797b6e8074bfdb435e332c9769c2f58d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rake",
+          "ecosystem": "RUBYGEMS",
+          "version": "13.3.1",
+          "githubOrg": "ruby",
+          "githubRepo": "rake",
+          "githubCommit": "f0001c3eeada8220f2976170876c75d21ed0626f",
+          "githubTag": "v13.3.1",
+          "githubUrl": "https://github.com/ruby/rake",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "rbs",
+          "ecosystem": "RUBYGEMS",
+          "version": "4.0.2",
+          "githubOrg": "ruby",
+          "githubRepo": "rbs",
+          "githubCommit": "ec514562d2f54be078d63877e612bbab87ab87b5",
+          "githubTag": "v4.0.2",
+          "githubUrl": "https://github.com/ruby/rbs.git",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "rubocop",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.86.0",
+          "githubOrg": "rubocop",
+          "githubRepo": "rubocop",
+          "githubCommit": "2c1b30a47d357599f36ae69c41a63966e68d7592",
+          "githubTag": "v1.86.0",
+          "githubUrl": "https://github.com/rubocop/rubocop/",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "sorbet",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.6.13067",
+          "githubOrg": "sorbet",
+          "githubRepo": "sorbet",
+          "githubUrl": "https://github.com/sorbet/sorbet",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "steep",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.10.0",
+          "githubOrg": "soutaro",
+          "githubRepo": "steep",
+          "githubCommit": "bfa83623798279cb36f9c627fb68824e22ab9293",
+          "githubTag": "v1.10.0",
+          "githubUrl": "https://github.com/soutaro/steep",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "async",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.38.1",
+          "githubOrg": "socketry",
+          "githubRepo": "async",
+          "githubCommit": "975b9facea4bc3659471aec908079fcfda1ff904",
+          "githubTag": "v2.38.1",
+          "githubUrl": "https://github.com/socketry/async.git",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "minitest",
+          "ecosystem": "RUBYGEMS",
+          "version": "6.0.2",
+          "githubOrg": "minitest",
+          "githubRepo": "minitest",
+          "githubCommit": "339492cbaec5c460ec278e754199619d6431af35",
+          "githubTag": "v6.0.2",
+          "githubUrl": "https://github.com/minitest/minitest",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "minitest-hooks",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.5.3",
+          "githubOrg": "jeremyevans",
+          "githubRepo": "minitest-hooks",
+          "githubCommit": "e690c2ed2a6ad4ffa48e2232bb9c086851283899",
+          "githubTag": "1.5.3",
+          "githubUrl": "https://github.com/jeremyevans/minitest-hooks",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "webmock",
+          "ecosystem": "RUBYGEMS",
+          "version": "3.26.2",
+          "githubOrg": "bblimke",
+          "githubRepo": "webmock",
+          "githubCommit": "ce700d989d015ace217f0c2720910abff25a029d",
+          "githubTag": "v3.26.2",
+          "githubUrl": "https://github.com/bblimke/webmock/tree/v3.26.2",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "yard",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.9.38",
+          "githubOrg": "lsegal",
+          "githubRepo": "yard",
+          "githubCommit": "34796c5bfc0ce69a5fea1b38d96435fc4f5b7a75",
+          "githubTag": "v0.9.38",
+          "githubUrl": "http://github.com/lsegal/yard",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "aws-sdk-bedrockruntime",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.74.0",
+          "githubOrg": "aws",
+          "githubRepo": "aws-sdk-ruby",
+          "githubUrl": "https://github.com/aws/aws-sdk-ruby/tree/version-3/gems/aws-sdk-bedrockruntime",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "googleauth",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.16.2",
+          "githubOrg": "googleapis",
+          "githubRepo": "google-auth-library-ruby",
+          "githubUrl": "https://github.com/googleapis/google-auth-library-ruby",
+          "source": "build_file:Gemfile"
+        }
+      ]
     },
     {
       "commit": "426a76b070c0331cfdd83c261e01b3980cb42616",
